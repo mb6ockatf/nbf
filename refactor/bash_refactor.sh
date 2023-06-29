@@ -12,7 +12,7 @@ refactor::sh(){
 		cp "$filename" "${filename}.orig"
 		sed -i '/^\s*$/d; /.*\}$/G' "$filename"
 		shfmt --list --write --language-dialect bash --simplify \
-			--case-indent --func-next-line |
+			--case-indent --func-next-line \
 			--space-redirects "$filename"
 	done <	<(find ./ -type f -iname "*.sh")
 }
