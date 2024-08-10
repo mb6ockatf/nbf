@@ -1,0 +1,97 @@
+commit 18e2802f638f978660834cba187c99ea0d3a2245
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Aug 10 16:00:43 2024 +0300
+
+    chore(CONTRIBUTING): added
+
+commit 32e71115ef8eb4569b06f32656630c0e37d2dae5
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Aug 9 21:23:12 2024 +0300
+
+    chore(COPYING): AGPL
+
+commit d0c6c8ad523ab8629b4380d619320d70e5c1ed65
+Author: Walter White <mdddmmmm@yandex.ru>
+Date:   Tue Jan 2 19:28:14 2024 +0300
+
+    Create gh_stats.sh
+
+commit 75ff39823b691cb85ec320f72a63c471cfb37082
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sun Oct 15 17:21:09 2023 +0300
+
+    feat: arch update script
+
+commit 6d3395c72f2e76dccd9937814c5345baaacfaf05
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Thu Jun 29 23:15:43 2023 +0300
+
+    feat(pling_plang.sh): added
+
+commit 16833deb5fd65b27525a7bd5648bf7afff2aa535
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Mon May 22 00:21:03 2023 +0300
+
+    feat(bash_refactor.sh): fix shfmt command
+
+commit 64d3227a26faa4bad66554530d152d8c04c6af18
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Mon May 22 00:13:38 2023 +0300
+
+    feat(bash_refactor.sh): shfmt refactoring
+
+commit 7f27cfea0b1eae1d5b0878744d582d7ed80de55d
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Tue May 9 19:24:18 2023 +0300
+
+    feat: add repeat_char.sh
+
+commit 2702ed0ea6174691dafcb170303ab548045a9dce
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Tue May 9 19:24:01 2023 +0300
+
+    feat: add prompt.sh
+
+commit cf07573cb97cef2221405d81f3018e572d09a125
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Tue May 9 19:22:56 2023 +0300
+
+    fix: add intel_light.sh
+
+commit 8b415d106b0543447797a5c5219392be00195d76
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Tue May 9 19:22:19 2023 +0300
+
+    feat: add gum scripts
+
+commit 4ea3b14276d978c33339b2e032d3d8b5e7547b90
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Tue May 9 19:22:02 2023 +0300
+
+    fix: add bash color scripts
+
+commit 4c7ea4da0f61368e578c161645e919745829b5f3
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Tue May 9 19:21:39 2023 +0300
+
+    feat: add refactoring scripts
+    
+    bash & c
+
+commit f579a77ccf7bbba60822919745360bfe4e6c9268
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Tue May 9 19:21:02 2023 +0300
+
+    feat: add ex.sh script
+
+commit 2055e0d5a7427c8ee81cba15cbdd515a43f7d2cd
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Tue May 9 18:53:40 2023 +0300
+
+    docs(README.md): update repository name
+
+commit 91d5a8a4ee09afc6d2dc298a08688eff05b52262
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Tue May 9 18:50:06 2023 +0300
+
+    Initial commit
